@@ -21,9 +21,9 @@ A simple memory game built using **HTML, CSS, and JavaScript**. The game generat
 
 
 ## 📂 Project Files
-- `project.html`
-- `project.css`
-- `project.js`
+- `index.html`
+- `style.css`
+- `app.js`
 
 ## 👩‍💻 Author
 Shreya Kumari
